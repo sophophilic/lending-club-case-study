@@ -28,10 +28,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Term –> Shorter loan tenures are at a higher risk of defaulting
+- Grade –> Lending Club should provide more Grade A loans. G Grade loans are risk and have ~50% default rate.
+- Purpose –> debt consolidation has the biggest charged_off rate
+- Annual Income Classification –> Explains which income group consumer can have more loan default
+- Loan Amount –> Explains that medium loan amount usually has a higher loan default rate.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
